@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe
 
 To-do: Current basic CPU player logic only picks a random empty location on the board. Need to replace this with "AI" move logic.
 
